@@ -13,8 +13,8 @@ interface SquarePaymentFormProps {
 }
 
 const SQUARE_CONFIG = {
-  applicationId: 'sq0idp-8kztSVgh4k2MrA47TAO_XA',
-  locationId: 'LDSF6W9PAWZNK',
+  applicationId: 'sq0idp-kMtm2Q79PLnqxFMcwlTmcg',
+  locationId: 'LQ5KTGTBDE2YJ',
 };
 
 const COUNTRIES = [
